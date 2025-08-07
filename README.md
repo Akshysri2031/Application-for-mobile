@@ -1,2 +1,2 @@
 # Application-for-mobile
-This app can add list
+This app can add to do list
